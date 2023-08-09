@@ -10,5 +10,6 @@ I'll think about categories if it ever gets long enough.
 - **[Exa](https://the.exa.website/)**: `ls` replacement
 - **[AltSnap](https://github.com/RamonUnch/AltSnap)**: moving windows around in Windows with the mouse
 - **[bottom](https://github.com/kz6fittycent/bottom)**: process/system monitor for the terminal
-- **[gitui](https://github.com/extrawurst/gitui)**: git terminal UI
+- **[gitui](https://github.com/extrawurst/gitui)**: git terminal UI ([that unfortunately does not have commit signing yet](https://github.com/extrawurst/gitui/issues/1149))
+- **[lazygit](https://github.com/jesseduffield/lazygit/)**: a git terminal UI that _does_ support commit signing
 - **[lf](https://github.com/gokcehan/lf)**: simple terminal file manager
